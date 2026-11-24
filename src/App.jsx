@@ -4,7 +4,7 @@ import Home from "./pages/Home.jsx";
 import Services from "./pages/Services.jsx";
 import ServiceDetails from "./pages/ServiceDetails.jsx";
 import About from "./pages/About.jsx";
-import Contact from "./pages/contact.jsx";
+import Contact from "./pages/Contact.jsx";
 import NotFound from "./pages/NotFound.jsx";
 import "./App.css";
 function App() {
